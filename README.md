@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hedayath Pinjari
 
-<!--
-**hedayath-18/hedayath-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer | Machine Learning
 
-Here are some ideas to get you started:
+I'm a Python developer focused on building practical machine learning solutions and improving my skills in data analysis, predictive modelling, and ML engineering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+- Machine Learning and predictive modelling
+- Data analysis and feature engineering
+- Model evaluation and experimentation
+- Python development and testing
+
+### Technical Skills
+- **Languages:** Python, SQL
+- **Data:** NumPy, Pandas
+- **Machine Learning:** Scikit-learn, regression, model evaluation
+- **Tools:** Git, GitHub, Jupyter Notebook
+
+### Projects
+Projects will be added here as I develop, test, and document them.
+
+### Current Focus
+Building reproducible machine learning projects with clean code, documented experiments, and reliable evaluation.
+
+### Connect
+- [LinkedIn](linkedin.com/in/hedayath-pinjari/)
+
